@@ -1,1 +1,1 @@
-# Algorithms-data-structures-lab-Nedelyaev
+Поиск корня уравнения методами половинного деления и хорд
